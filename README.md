@@ -2,6 +2,7 @@
 MyNewProject
 
 tomcat user
+```XML
 <?xml version='1.0' encoding='utf-8'?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
@@ -41,3 +42,4 @@ tomcat user
 <user username="admin" password="admin" roles="admin,manager-gui,manager-script"/>
 <user username="pratikj" password="pratikj" roles="admin,manager-gui,manager-script"/>
 </tomcat-users>
+```
